@@ -8,9 +8,9 @@ Array adalah sekumpulan data yang menyimpan banyak data dengan tipe yang sama da
 - *Mudah digunakan*
   tentu dengan ini kita mudah menggunakan nya secara sederhana, dan mudah di pahami. Sehingga sangat cocok untuk pemula yang ingin memulai belajar bahasa pemrograman.
 -  *Mengggunakan (List Array)*
-  jika menggunakan list array maka data nilai tersimpan didalam satu variabel dan dapat mudah diolah.
+  jika menggunakan list array, maka data didalam nilai tersimpan dalam satu variabel dan dapat mudah diolah.
 -  *Mengakses Data dengan cepat*
-didalam array, Tentu Array memakai *list*, lalu kita dapat langsung mengambil data tanpa mencuri satu per satu dan hanya memanggil indeksnya saja.
+didalam array, Tentu Array memakai *list* yang dimana kita dapat langsung mengambil data tanpa mencuri satu per satu dan hanya memanggil indeksnya saja.
 -  *Data bersifat Final (jumlahnya tetap)*
 jika kita membuat daftar nilai tetap dan tidak berubah sewaktu waktu, maka arra sangat efektif digunakan.
 
