@@ -72,6 +72,8 @@ Array adalah sekumpulan data yang menyimpan banyak data dalam satu wadah dengan 
 - Dengan adanya tugas ini kita tak hanya membuat saja tetapi mendapatkan informasi output data yang kita buat dalam bentuk grafik ,sehingga dapat membantu memahami informasi yang diberikan secara visual atau gambar dengan lebih jelas.
 - Kedepan nya saya akan lebih banyak latihan membuat program kecil-kecilan yang kompleks, dari Tugas ini, saya bisa meningkatkan kemampuan logika kita, dan dapat memecahkan masalah dengan baik.
 
+## Dibuat oleh : Kristian Putra Santosa (2501010348)
+
 
 
 
