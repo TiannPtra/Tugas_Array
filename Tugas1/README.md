@@ -1,5 +1,5 @@
 ## 1. Penjelasan Konsep dasar Array
-Array adalah sekumpulan data yang menyimpan banyak data dalam satu wadah dengan tipe yang sama dengan satu variabel dan disusun secara berurutan. Serta tiap datanya memiliki indeks supaya mudah menghitung urutan awal pada indeks nya. Pada Python, array disebut List, pada tugas pertama kali ini kita menggunakan array untuk mencari nilai tertinggi dan terendah. Dengan demikian kita menggunakan array lebih mudah menentukan jumlah data yang akan kita hhitung jumlah nya. Array memiliki indeks yang dimulai dari 0, sehingga kita menghitung data secara berurutan dan sederhana.
+Array adalah sekumpulan data yang menyimpan banyak data dalam satu wadah dengan tipe yang sama variabelnya lalu disusun secara berurutan. Serta tiap datanya memiliki indeks supaya mudah menghitung urutan awal pada indeks nya. Pada Python, array disebut List, pada tugas pertama kali ini kita menggunakan array untuk mencari nilai tertinggi dan terendah. Dengan demikian kita menggunakan array lebih mudah menentukan jumlah data yang akan kita hhitung jumlah nya. Array memiliki indeks yang dimulai dari 0, sehingga kita menghitung data secara berurutan dan sederhana.
 
 
 ## Analisis Kelebihan dan kekurangan 
