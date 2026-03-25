@@ -10,13 +10,13 @@ Array adalah sekumpulan data yang menyimpan banyak data dengan tipe yang sama da
 - Mengggunakan (List Array)
   jika menggunakan list array, maka data didalam nilai tersimpan dalam satu variabel dan dapat mudah diolah.
 - Mengakses Data dengan cepat
-didalam array, Tentu Array memakai *list* yang dimana kita dapat langsung mengambil data tanpa mencuri satu per satu dan hanya memanggil indeksnya saja.
+ didalam array, Tentu Array memakai *list* yang dimana kita dapat langsung mengambil data tanpa mencuri satu per satu dan hanya memanggil indeksnya saja.
 - Data bersifat Final (jumlahnya tetap)
-jika kita membuat daftar nilai tetap dan tidak berubah sewaktu waktu, maka array sangat efektif digunakan.
+ jika kita membuat daftar nilai tetap dan tidak berubah sewaktu waktu, maka array sangat efektif digunakan.
 
 
 ### Kekurangan❌
-- Kurang fleksibel
+- Kurangnya fleksibilitas
 jika kita ingin merubah jumlah data nya, maka harus disesuaikan ulang kembali dari awal.
 - Jumlah data Statis
 hanya bisa menginput 10 nilai dan tentunya tidak felsibel.
