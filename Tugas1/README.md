@@ -10,7 +10,7 @@ Tentu ini kita dengan mudah menggunakan nya secara sederhana, dan mudah di paham
 -  *Mengggunakan (list Array)*
 jika menggunakan list array maka data nilai tersimpan didalam satu variabel dan mudah diolah.
 -  *Mengakses Data dengan cepat*
-didalam array, Tentu Array memakai list, lalu kita dapat langsung mengambil data tanpa mencuri satu per satu dan hanya memanggil indkesnya saja.
+didalam array, Tentu Array memakai *list*, lalu kita dapat langsung mengambil data tanpa mencuri satu per satu dan hanya memanggil indkesnya saja.
 -  *Data bersifat Final (jumlahnya tetap)*
 jika kita membuat daftar nilai tetap dan tidak berubah sewaktu waktu, maka arra sangat efektif digunakan.
 
