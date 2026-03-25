@@ -25,9 +25,14 @@ Array adalah sekumpulan data yang menyimpan banyak data dalam satu wadah dengan 
 - Ukuran Mutlak. Artinya jika data pada Array kurang, maka terdapat ruang kosong. Jika lebih, maka array tidak muat, dan harus membuat baru lagi.
 
 
-## 2.Screenshot Hasil Eksekusi
+## 2. Screenshot Hasil Eksekusi
 
 <img width="272" height="233" alt="Screenshot 2026-03-25 193441" src="https://github.com/user-attachments/assets/5e38ea3a-4dc5-42c7-b824-f48ba466aff8" />
+
+## Output teks di terminal
+
+<img width="680" height="108" alt="Screenshot 2026-03-25 193506" src="https://github.com/user-attachments/assets/b2856a89-bc28-4bbe-b77d-96ef04c1500c" />
+
 
   
 
