@@ -19,7 +19,7 @@ Array adalah sekumpulan data yang menyimpan banyak data dengan tipe yang sama da
 - Kurangnya fleksibilitas.
 Jika kita ingin merubah jumlah data nya, maka harus disesuaikan ulang kembali dari awal.
 - Jumlah data Statis
- hanya bisa menginput 10 nilai dan tentunya tidak felsibel.
+ hanya bisa menginput 10 nilai dan tentunya tidak felsibel
 - 
   
 
