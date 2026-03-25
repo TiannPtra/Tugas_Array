@@ -14,6 +14,13 @@ didalam array, Tentu Array memakai list, lalu kita dapat langsung mengambil data
 ###  *Data bersifat Final (jumlahnya tetap)*
 jika kita membuat daftar nilai tetap dan tidak berubah sewaktu waktu, maka arra sangat efektif digunakan.
 
+
+### Kekurangan❌
+### *Kurang fleksibel*
+jika kita ingin merubah jumlah data nya, maka harus disesuaikan ulang kembali dari awal.
+## *Jumlah data Statis*
+hanya bisa menginput 10 nilai dan tentunya tidak felsibel.
+###
   
 
 
