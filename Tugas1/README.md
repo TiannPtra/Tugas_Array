@@ -17,7 +17,7 @@ Array adalah sekumpulan data yang menyimpan banyak data dengan tipe yang sama da
 - *Data bersifat Final (jumlahnya tetap)*
   jika kita membuat daftar nilai tetap dan tidak berubah sewaktu waktu, maka arra sangat efektif digunakan
 
-- *
+- 
   
 
 
