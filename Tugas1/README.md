@@ -40,6 +40,8 @@ Array adalah sekumpulan data yang menyimpan banyak data dalam satu wadah dengan 
 
 ## 3. Analisis Kompleksitas 
 
+
+
 | No | Kode Program                | Proses yang Terjadi                            | Time Complexity | Space Complexity |
 | -- | --------------------------- | ---------------------------------------------- | --------------- | ---------------- |
 | 1  | `nilai = []`                | Inisialisasi array kosong                      | O(1)            | O(1)             |
