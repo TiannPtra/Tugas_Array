@@ -17,7 +17,6 @@ didalam array, Tentu Array memekai list, lalu kita dapat langsung mengambil data
 - *Data bersifat Final (jumlahnya tetap)*
 jika kita membuat daftar nilai tetap dan tidak berubah sewaktu waktu, maka arra sangat efektif digunakan
 
-- 
   
 
 
