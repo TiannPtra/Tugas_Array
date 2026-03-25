@@ -38,6 +38,29 @@ Array adalah sekumpulan data yang menyimpan banyak data dalam satu wadah dengan 
 <img width="669" height="519" alt="Screenshot 2026-03-25 193539" src="https://github.com/user-attachments/assets/e46d7316-cef2-42aa-ae7e-871491acfc4f" />
 
 
+## 3. Analisis Kompleksitas 
+
+| No | Kode Program                | Proses yang Terjadi                            | Time Complexity | Space Complexity |
+| -- | --------------------------- | ---------------------------------------------- | --------------- | ---------------- |
+| 1  | `nilai = []`                | Inisialisasi array kosong                      | O(1)            | O(1)             |
+| 2  | `for i in range(10):`       | Perulangan untuk input 10 data                 | O(n)            | O(n)             |
+| 3  | `input()`                   | Mengambil input dari user                      | O(1) per input  | O(1)             |
+| 4  | `nilai.append(n)`           | Menambahkan nilai ke array                     | O(1) amortized  | O(n)             |
+| 5  | `print(nilai)`              | Menampilkan seluruh isi array                  | O(n)            | O(1)             |
+| 6  | `max(nilai)`                | Mencari nilai terbesar (menelusuri semua data) | O(n)            | O(1)             |
+| 7  | `min(nilai)`                | Mencari nilai terkecil (menelusuri semua data) | O(n)            | O(1)             |
+| 8  | `sum(nilai)`                | Menjumlahkan semua elemen                      | O(n)            | O(1)             |
+| 9  | `len(nilai)`                | Menghitung jumlah elemen                       | O(1)            | O(1)             |
+| 10 | `rata_rata = sum/len`       | Operasi pembagian                              | O(1)            | O(1)             |
+| 11 | `for n in nilai:`           | Perulangan untuk cek kelulusan                 | O(n)            | O(1)             |
+| 12 | `if n >= 60`                | Pengecekan kondisi                             | O(1) per data   | O(1)             |
+| 13 | `jumlah_lulus += 1`         | Penambahan nilai counter                       | O(1)            | O(1)             |
+| 14 | `len(nilai) - jumlah_lulus` | Menghitung jumlah tidak lulus                  | O(1)            | O(1)             |
+| 15 | `plt.bar()`                 | Menampilkan grafik batang (2 data saja)        | O(1)            | O(1)             |
+| 16 | `plt.pie()`                 | Menampilkan grafik pie berdasarkan hasil       | O(n)*           | O(1)             |
+
+
+
 
   
 
