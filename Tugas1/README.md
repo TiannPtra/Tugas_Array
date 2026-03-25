@@ -6,6 +6,18 @@ Array adalah sekumpulan data yang menyimpan banyak data dengan tipe yang sama da
 
 ### Kelebihan 
 - *Mudah digunakan*
+  Tentu ini kita dengan mudah menggunakan nya secara sederhana, dan mudah di pahami. Sehingga sangat cocok untuk pemula yang ingin memulai belajar bahasa pemrograman.
 
+- *Mengggunakan (list Array)*
+  jika menggunakan list array maka data nilai tersimpan didalam satu variabel dan mudah diolah.
+
+- *Mengakses Data dengan cepat*
+  didalam array, Tentu Array memekai list, lalu kita dapat langsung mengambil data tanpa mencuri satu per satu dan hanya memanggil indkesnya saja.
+
+- *Data bersifat Final (jumlahnya tetap)*
+  jika kita membuat daftar nilai tetap dan tidak berubah sewaktu waktu, maka arra sangat efektif digunakan
+
+- *
+  
 
 
