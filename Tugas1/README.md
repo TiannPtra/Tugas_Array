@@ -61,6 +61,9 @@ Array adalah sekumpulan data yang menyimpan banyak data dalam satu wadah dengan 
 | 16 | `plt.pie()`                 | Menampilkan grafik pie berdasarkan hasil       | O(n)*           | O(1)             |
 
 
+
+
+
 ## 4. 📘Refleksi Pembelajaran Array
 
 - Pada pengetahuan dasar saya memahami bahwa dalam suatu data, terdapat posisi pada data disebut INDEX, dimana fungsinya adalah memudahkan kita dalam mengambil dan mengubah data dengan cepat dan tepat.
