@@ -29,9 +29,14 @@ Array adalah sekumpulan data yang menyimpan banyak data dalam satu wadah dengan 
 
 <img width="272" height="233" alt="Screenshot 2026-03-25 193441" src="https://github.com/user-attachments/assets/5e38ea3a-4dc5-42c7-b824-f48ba466aff8" />
 
-  ## Output teks di terminal
+## Output teks di terminal
 
 <img width="680" height="108" alt="Screenshot 2026-03-25 193506" src="https://github.com/user-attachments/assets/b2856a89-bc28-4bbe-b77d-96ef04c1500c" />
+
+## Grafik Bar
+
+<img width="669" height="519" alt="Screenshot 2026-03-25 193539" src="https://github.com/user-attachments/assets/e46d7316-cef2-42aa-ae7e-871491acfc4f" />
+
 
 
   
