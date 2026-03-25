@@ -17,9 +17,9 @@ Array adalah sekumpulan data yang menyimpan banyak data dengan tipe yang sama da
 
 ### Kekurangan❌
 - Kurangnya fleksibilitas.
-Jika kita ingin merubah jumlah data nya, maka harus disesuaikan ulang kembali dari awal.
+ Jika kita ingin merubah jumlah data nya, maka harus disesuaikan ulang kembali dari awal.
 - Jumlah Data Statis
- hanya bisa menginput 10 nilai dan tentunya tidak fleksibel.
+  hanya bisa menginput 10 nilai dan tentunya tidak fleksibel.
 - 
   
 
