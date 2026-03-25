@@ -37,6 +37,11 @@ Array adalah sekumpulan data yang menyimpan banyak data dalam satu wadah dengan 
 
 <img width="669" height="519" alt="Screenshot 2026-03-25 193539" src="https://github.com/user-attachments/assets/e46d7316-cef2-42aa-ae7e-871491acfc4f" />
 
+## Grafik Presentase Kelulusan
+
+<img width="404" height="476" alt="Screenshot 2026-03-25 195420" src="https://github.com/user-attachments/assets/cec59e10-64cf-4013-a52f-791bf2d18b0f" />
+
+
 
 ## 3. Analisis Kompleksitas 
 
