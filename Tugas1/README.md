@@ -5,9 +5,9 @@ Array adalah sekumpulan data yang menyimpan banyak data dengan tipe yang sama da
 ## Analisis Kelebihan dan kekurangan 
 
 ### Kelebihan✅
-- ## Mudah digunakan
+- ### Mudah digunakan
   tentu dengan ini kita mudah menggunakan nya secara sederhana, dan mudah di pahami. Sehingga sangat cocok untuk pemula yang ingin memulai belajar bahasa pemrograman.
--  ## Mengggunakan (List Array)
+-  ### Mengggunakan (List Array)
   jika menggunakan list array, maka data didalam nilai tersimpan dalam satu variabel dan dapat mudah diolah.
 -  *Mengakses Data dengan cepat*
 didalam array, Tentu Array memakai *list* yang dimana kita dapat langsung mengambil data tanpa mencuri satu per satu dan hanya memanggil indeksnya saja.
