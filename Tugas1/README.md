@@ -20,7 +20,9 @@ Array adalah sekumpulan data yang menyimpan banyak data dalam satu wadah dengan 
  Jika kita ingin merubah jumlah data nya, maka harus disesuaikan ulang kembali dari awal.
 - Jumlah Data Statis
   hanya bisa menginput 10 nilai dan tentunya tidak fleksibel.
-- 
+- Memakan banyak memori.
+  Disetiap array yang kita buat misal 100, hanya sedikit yang terpakai sekitar 20 saja, alhasil sisanya tetap terbuang.
+- Ukuran Mutlak. Artinya jika data pada Array kurang, maka terdapat ruang kosong. Jika lebih, maka array tidak muat, dan harus membuat baru lagi.
   
 
 
