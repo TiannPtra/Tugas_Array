@@ -12,7 +12,7 @@ Array adalah sekumpulan data yang menyimpan banyak data dengan tipe yang sama da
 - Mengakses Data dengan cepat
 didalam array, Tentu Array memakai *list* yang dimana kita dapat langsung mengambil data tanpa mencuri satu per satu dan hanya memanggil indeksnya saja.
 - Data bersifat Final (jumlahnya tetap)
-jika kita membuat daftar nilai tetap dan tidak berubah sewaktu waktu, maka arra sangat efektif digunakan.
+jika kita membuat daftar nilai tetap dan tidak berubah sewaktu waktu, maka array sangat efektif digunakan.
 
 
 ### Kekurangan❌
