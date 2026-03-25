@@ -41,7 +41,6 @@ Array adalah sekumpulan data yang menyimpan banyak data dalam satu wadah dengan 
 ## 3. Analisis Kompleksitas 
 
 
-
 | No | Kode Program                | Proses yang Terjadi                            | Time Complexity | Space Complexity |
 | -- | --------------------------- | ---------------------------------------------- | --------------- | ---------------- |
 | 1  | `nilai = []`                | Inisialisasi array kosong                      | O(1)            | O(1)             |
@@ -60,6 +59,19 @@ Array adalah sekumpulan data yang menyimpan banyak data dalam satu wadah dengan 
 | 14 | `len(nilai) - jumlah_lulus` | Menghitung jumlah tidak lulus                  | O(1)            | O(1)             |
 | 15 | `plt.bar()`                 | Menampilkan grafik batang (2 data saja)        | O(1)            | O(1)             |
 | 16 | `plt.pie()`                 | Menampilkan grafik pie berdasarkan hasil       | O(n)*           | O(1)             |
+
+
+## 4. 📘Refleksi Pembelajaran Array
+
+- Pada pengetahuan dasar saya memahami bahwa dalam suatu data, terdapat posisi pada data disebut INDEX, dimana fungsinya adalah memudahkan kita dalam mengambil dan mengubah data dengan cepat dan tepat.
+- Didalam Python saya memanfaatkan fungsi python seperti Max(), Min(), dan Sum() untuk mengolah data dengan cepat tanpa kita harus menghitung manual lagi.
+- Tentu tak hanya itu saja, adapun kekurangan dasar yang saya ketahui yaitu ukuran nya yang mutlak atau tidak fleksibel dan hanya menyimpan satu jenis data saja.
+- Dengan adanya tugas ini kita tak hanya membuat saja tetapi mendapatkan informasi output data yang kita buat dalam bentuk grafik ,sehingga dapat membantu memahami informasi yang diberikan secara visual atau gambar dengan lebih jelas.
+- Kedepan nya saya akan lebih banyak latihan membuat program kecil-kecilan yang kompleks, dari Tugas ini, saya bisa meningkatkan kemampuan logika kita, dan dapat memecahkan masalah dengan baik.
+
+
+
+
 
 
 
