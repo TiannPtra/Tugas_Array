@@ -23,6 +23,12 @@ Array adalah sekumpulan data yang menyimpan banyak data dalam satu wadah dengan 
 - Memakan banyak memori.
   Disetiap array yang kita buat misal 100, hanya sedikit yang terpakai sekitar 20 saja, alhasil sisanya tetap terbuang.
 - Ukuran Mutlak. Artinya jika data pada Array kurang, maka terdapat ruang kosong. Jika lebih, maka array tidak muat, dan harus membuat baru lagi.
+
+
+## 2.Screenshot Hasil Eksekusi
+
+<img width="272" height="233" alt="Screenshot 2026-03-25 193441" src="https://github.com/user-attachments/assets/5e38ea3a-4dc5-42c7-b824-f48ba466aff8" />
+
   
 
 
