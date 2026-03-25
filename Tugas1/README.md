@@ -16,11 +16,11 @@ jika kita membuat daftar nilai tetap dan tidak berubah sewaktu waktu, maka array
 
 
 ### Kekurangan❌
-### *Kurang fleksibel*
+- Kurang fleksibel
 jika kita ingin merubah jumlah data nya, maka harus disesuaikan ulang kembali dari awal.
-## *Jumlah data Statis*
+- Jumlah data Statis
 hanya bisa menginput 10 nilai dan tentunya tidak felsibel.
-###
+- 
   
 
 
